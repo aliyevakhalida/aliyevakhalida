@@ -3,6 +3,7 @@
 
 ##### Things I use on a daily basis:
 <p>
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-152E3F?style=flat-square&logo=android-studio&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-222327?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
